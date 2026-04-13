@@ -1,0 +1,15 @@
+C:\Users\CPU\source\repos\Sistema-De-Pagamentos\Sistema-De-Pagamentos\bin\Debug\net10.0\Sistema-De-Pagamentos.exe
+C:\Users\CPU\source\repos\Sistema-De-Pagamentos\Sistema-De-Pagamentos\bin\Debug\net10.0\Sistema-De-Pagamentos.deps.json
+C:\Users\CPU\source\repos\Sistema-De-Pagamentos\Sistema-De-Pagamentos\bin\Debug\net10.0\Sistema-De-Pagamentos.runtimeconfig.json
+C:\Users\CPU\source\repos\Sistema-De-Pagamentos\Sistema-De-Pagamentos\bin\Debug\net10.0\Sistema-De-Pagamentos.dll
+C:\Users\CPU\source\repos\Sistema-De-Pagamentos\Sistema-De-Pagamentos\bin\Debug\net10.0\Sistema-De-Pagamentos.pdb
+C:\Users\CPU\source\repos\Sistema-De-Pagamentos\Sistema-De-Pagamentos\obj\Debug\net10.0\Sistema-De-Pagamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CPU\source\repos\Sistema-De-Pagamentos\Sistema-De-Pagamentos\obj\Debug\net10.0\Sistema-De-Pagamentos.AssemblyInfoInputs.cache
+C:\Users\CPU\source\repos\Sistema-De-Pagamentos\Sistema-De-Pagamentos\obj\Debug\net10.0\Sistema-De-Pagamentos.AssemblyInfo.cs
+C:\Users\CPU\source\repos\Sistema-De-Pagamentos\Sistema-De-Pagamentos\obj\Debug\net10.0\Sistema-De-Pagamentos.csproj.CoreCompileInputs.cache
+C:\Users\CPU\source\repos\Sistema-De-Pagamentos\Sistema-De-Pagamentos\obj\Debug\net10.0\Sistema-De-Pagamentos.sourcelink.json
+C:\Users\CPU\source\repos\Sistema-De-Pagamentos\Sistema-De-Pagamentos\obj\Debug\net10.0\Sistema-De-Pagamentos.dll
+C:\Users\CPU\source\repos\Sistema-De-Pagamentos\Sistema-De-Pagamentos\obj\Debug\net10.0\refint\Sistema-De-Pagamentos.dll
+C:\Users\CPU\source\repos\Sistema-De-Pagamentos\Sistema-De-Pagamentos\obj\Debug\net10.0\Sistema-De-Pagamentos.pdb
+C:\Users\CPU\source\repos\Sistema-De-Pagamentos\Sistema-De-Pagamentos\obj\Debug\net10.0\Sistema-De-Pagamentos.genruntimeconfig.cache
+C:\Users\CPU\source\repos\Sistema-De-Pagamentos\Sistema-De-Pagamentos\obj\Debug\net10.0\ref\Sistema-De-Pagamentos.dll
